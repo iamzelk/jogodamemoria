@@ -30,3 +30,8 @@ Um jogo da memória interativo desenvolvido com **HTML**, **CSS** e **JavaScript
 - Alterar os ícones das cartas na array `cards` do arquivo `app.js`.
 - Ajustar o número de vidas e dicas disponíveis.
 - Adicionar novos efeitos ou animações nas cartas.
+
+![divider](https://github.com/user-attachments/assets/bfae75fb-5017-4780-a572-92ec06fbfe8f)
+
+### 🖼️ Créditos de Arte e Imagens  
+As imagens e a arte utilizadas no jogo são fornecidas pela Disney D23 Brasil. Todos os direitos sobre essas imagens estão reservados à Disney.
