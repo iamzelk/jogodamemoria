@@ -28,7 +28,6 @@ body {
     flex-wrap: wrap; /* Permite que os elementos se reorganizem em telas menores */
     padding: 20px;
     box-sizing: border-box;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
 }
 
 .image-container img {
